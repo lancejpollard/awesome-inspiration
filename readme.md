@@ -63,10 +63,18 @@ These are all projects to gain inspiration from for implementation, in various p
 - [pngjs](https://github.com/lukeapage/pngjs)
 - [gif.js](https://github.com/jnordberg/gif.js)
 - [libgif-js](https://github.com/buzzfeed/libgif-js)
+- [elfy](https://github.com/indutny/elfy)
 
 ## Video
 
 - [Broadway](https://github.com/mbebenita/Broadway)
+- [Player](https://github.com/piemonte/Player)
+- [VideoCast-Swift](https://github.com/cats-oss/VideoCast-Swift)
+- [Live](https://github.com/ltebean/Live)
+- [StreamIt](https://github.com/twittemb/StreamIt)
+- [PresentIO](https://github.com/goborrega/PresentIO)
+- [Aperture](https://github.com/wulkano/Aperture)
+- [beagle-im](https://github.com/tigase/beagle-im)
 
 ## Images
 
@@ -103,10 +111,11 @@ These are all projects to gain inspiration from for implementation, in various p
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [dht](https://github.com/hyperswarm/dht)
 
-## Servers
+## Servers and Sockets
 
 - [socket.io](https://github.com/socketio/socket.io)
 - [smtp-server](https://github.com/nodemailer/smtp-server)
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket)
 
 ## Terminal
 
@@ -149,6 +158,7 @@ These are all projects to gain inspiration from for implementation, in various p
 ## Audio
 
 - [libsoundio](https://github.com/andrewrk/libsoundio)
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift)
 
 ## APIs
 
@@ -166,7 +176,21 @@ These are all projects to gain inspiration from for implementation, in various p
 - [GDB](https://github.com/bminor/binutils-gdb)
 - [dsvpn](https://github.com/jedisct1/dsvpn)
 - [linux](https://github.com/torvalds/linux)
+- [CKernel](https://github.com/devversion/CKernel)
+
+## Daemon
+
+- [Swift-Daemon](https://github.com/ainame/Swift-Daemon)
+- [swift-daemon](https://github.com/hanjoes/swift-daemon)
 
 ## Parser
 
 - [grbl](https://github.com/gnea/grbl)
+
+## Biology
+
+- [protein](https://github.com/sacdallago/protein)
+
+## Text Editors
+
+- [CotEditor](https://github.com/coteditor/CotEditor)
