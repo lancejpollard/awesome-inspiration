@@ -41,6 +41,7 @@ These are all projects to gain inspiration from for implementation, in various p
 - TLS 1.3
 - [tls.js](https://github.com/indutny/tls.js)
 - [forge](https://github.com/digitalbazaar/forge)
+- [boulder](https://github.com/letsencrypt/boulder)
 
 ## Documents
 
@@ -67,6 +68,12 @@ These are all projects to gain inspiration from for implementation, in various p
 - [SwiftPhone](https://github.com/mattmakai/SwiftPhone)
 - [pjproject](https://github.com/pjsip/pjproject)
 - [re](https://github.com/creytiv/re)
+- [callkit-tutorial](https://github.com/WebsiteBeaver/callkit-tutorial)
+
+## File Watching
+
+- [swift-watch](https://github.com/Swift-Watch/swift-watch)
+- [fsevents](https://github.com/fsevents/fsevents)
 
 ## Auth
 
