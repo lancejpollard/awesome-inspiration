@@ -14,10 +14,17 @@ These are all projects to gain inspiration from for implementation, in various p
 - [luma.gl](https://github.com/visgl/luma.g)
 - [picogl.js](https://github.com/tsherif/picogl.js)
 - [stackgl](https://github.com/stackgl)
+- [ios_metal_bezier_renderer](https://github.com/eldade/ios_metal_bezier_renderer)
+- [CocoaConfChicago2017](https://github.com/hyperjeff/CocoaConfChicago2017)
 
 ## Physics
 
 - [p2.js](https://github.com/schteppe/p2.js)
+
+## Bits
+
+- [BitByteData](https://github.com/tsolomko/BitByteData)
+- [Bitter](https://github.com/uraimo/Bitter)
 
 ## Math
 
@@ -52,6 +59,10 @@ These are all projects to gain inspiration from for implementation, in various p
 - [opentype](https://github.com/bramstein/opentype)
 - [fontforge](https://github.com/fontforge/fontforge)
 - [fontkit](https://github.com/foliojs/fontkit)
+- [docx](https://github.com/dolanmiu/docx)
+- [pngjs](https://github.com/lukeapage/pngjs)
+- [gif.js](https://github.com/jnordberg/gif.js)
+- [libgif-js](https://github.com/buzzfeed/libgif-js)
 
 ## Video
 
@@ -60,6 +71,8 @@ These are all projects to gain inspiration from for implementation, in various p
 ## Images
 
 - [jimp](https://github.com/oliver-moran/jimp)
+- [sharp](https://github.com/lovell/sharp)
+- [libvips](https://github.com/libvips/libvips)
 
 ## Telephony
 
@@ -69,6 +82,7 @@ These are all projects to gain inspiration from for implementation, in various p
 - [pjproject](https://github.com/pjsip/pjproject)
 - [re](https://github.com/creytiv/re)
 - [callkit-tutorial](https://github.com/WebsiteBeaver/callkit-tutorial)
+- [quickblox-ios-sdk](https://github.com/QuickBlox/quickblox-ios-sdk)
 
 ## File Watching
 
@@ -115,6 +129,7 @@ These are all projects to gain inspiration from for implementation, in various p
 ## Strings
 
 - [money.js](https://github.com/openexchangerates/money.js)
+- [js-parse](https://github.com/kkoch986/js-parse)
 
 ## Browser
 
