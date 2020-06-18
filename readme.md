@@ -9,6 +9,15 @@ These are all projects to gain inspiration from for implementation, in various p
 - [Three.js](https://github.com/mrdoob/three.js/)
 - [turf](https://github.com/Turfjs/turf)
 - [arrayfire](https://github.com/arrayfire/arrayfire)
+- [Hyperbolic tiling](http://www.malinc.se/noneuclidean/en/poincaretiling.php)
+- [phenomenon](https://github.com/vaneenige/phenomenon)
+- [luma.gl](https://github.com/visgl/luma.g)
+- [picogl.js](https://github.com/tsherif/picogl.js)
+- [stackgl](https://github.com/stackgl)
+
+## Physics
+
+- [p2.js](https://github.com/schteppe/p2.js)
 
 ## Math
 
@@ -31,6 +40,7 @@ These are all projects to gain inspiration from for implementation, in various p
 - [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 - TLS 1.3
 - [tls.js](https://github.com/indutny/tls.js)
+- [forge](https://github.com/digitalbazaar/forge)
 
 ## Documents
 
