@@ -48,6 +48,27 @@ These are all projects to gain inspiration from for implementation, in various p
 - [Sheet.js](https://github.com/SheetJS/sheetjs)
 - [opentype.js](https://github.com/opentypejs/opentype.js)
 - [FFMpeg](https://github.com/FFmpeg/FFmpeg)
+- [opentype](https://github.com/bramstein/opentype)
+- [fontforge](https://github.com/fontforge/fontforge)
+- [fontkit](https://github.com/foliojs/fontkit)
+
+## Video
+
+- [Broadway](https://github.com/mbebenita/Broadway)
+
+## Images
+
+- [jimp](https://github.com/oliver-moran/jimp)
+
+## Telephony
+
+- [vialer-ios](https://github.com/VoIPGRID/vialer-ios)
+- [voice-quickstart-ios](https://github.com/twilio/voice-quickstart-ios)
+- [SwiftPhone](https://github.com/mattmakai/SwiftPhone)
+
+## Auth
+
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 
 ## Algorithms and Data Structures
 
