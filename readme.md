@@ -65,10 +65,15 @@ These are all projects to gain inspiration from for implementation, in various p
 - [vialer-ios](https://github.com/VoIPGRID/vialer-ios)
 - [voice-quickstart-ios](https://github.com/twilio/voice-quickstart-ios)
 - [SwiftPhone](https://github.com/mattmakai/SwiftPhone)
+- [pjproject](https://github.com/pjsip/pjproject)
 
 ## Auth
 
 - [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+
+## DNS
+
+- [node-dns](https://github.com/song940/node-dns)
 
 ## Algorithms and Data Structures
 
@@ -137,6 +142,7 @@ These are all projects to gain inspiration from for implementation, in various p
 - [16bitjs](https://github.com/francisrstokes/16bitjs)
 - [GDB](https://github.com/bminor/binutils-gdb)
 - [dsvpn](https://github.com/jedisct1/dsvpn)
+- [linux](https://github.com/torvalds/linux)
 
 ## Parser
 
